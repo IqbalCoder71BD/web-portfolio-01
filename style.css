@@ -1,0 +1,23 @@
+body {
+  font-family: "Poppins", system-ui;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+.name-highlight {
+  color: orange;
+}
+
+.half-width {
+  width: 40%;
+  float: left;
+  margin-left: 5%;
+  padding: 2%;
+}
+
+.half-width img {
+  max-width: 100%;
+  height: auto;
+}
